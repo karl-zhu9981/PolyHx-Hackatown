@@ -1,3 +1,4 @@
 # PolyHx-Hackatown
 
-##Submission by: Karl Zhu, Kaylee Zhu
+##Team name: YourMeals
+##Team members: Karl Zhu, Kaylee Zhu
