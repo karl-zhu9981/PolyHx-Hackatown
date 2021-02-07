@@ -1,5 +1,5 @@
 # PolyHx-Hackatown
 
-##Team name: YourMeals
+## Team name: YourMeals
 
-##Team members: Karl Zhu, Kaylee Zhu
+## Team members: Karl Zhu, Kaylee Zhu
